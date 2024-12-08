@@ -5,11 +5,11 @@
 I'm Emirhan, a **Computer Engineering** student with a passion for creating solutions that simplify and automate everyday tasks. Currently, I focus on developing **automations** to enhance my workflow and increase productivity.
 
 ## 🔭 I’m Currently Working On
-- Building various automation scripts to streamline personal and academic projects.
+- An AI-powered chat-based remote computer control Android app. (I'm really excited to finish this project!!)
 
 ## 🌱 I’m Learning
 - Exploring different areas within computer engineering to find my niche.
-- Enhancing my skills in **Cyber Security** and **Cloud Development**.
+- Enhancing my skills in **Python** and **JavaScript**.
 
 ## 👯 I’m Open To Collaborate On
 - Projects related to automation, cyber security, or cloud technologies.
